@@ -2,7 +2,7 @@ import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 
 class StatsNavPage extends StatelessWidget {
-  List<int> data = [1000, 21000, 40000, 5000, 4400, 3000, 7700];
+  List<int> data = [1200,4050,5000,3000,7000];
 
   @override
   Widget build(BuildContext context) {
